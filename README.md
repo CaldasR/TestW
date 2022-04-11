@@ -1,6 +1,6 @@
 # TestW
 
-#Demarrage de docker :
+Demarrage de docker :
 	docker-compose up
 
 Si composer a mal lancé mysqli je dois ouvrir le php container avec un terminal et run :
@@ -10,6 +10,6 @@ Si composer a mal lancé mysqli je dois ouvrir le php container avec un terminal
 
 Si la db doit etre re-importer : MYSQL_DATABASE.sql
 
-#Navigateur : http://localhost:8000/index.php
+Navigateur : http://localhost:8000/index.php
 
 Les logins/passwords sont en db
