@@ -1,0 +1,4 @@
+Si composer a mal lancé mysqli je dois ouvrir le php container avec un terminal et run :
+	docker-php-ext-install mysqli
+	apachectl restart
+#https://stackoverflow.com/questions/46879196/mysqli-not-found-dockerized-php
